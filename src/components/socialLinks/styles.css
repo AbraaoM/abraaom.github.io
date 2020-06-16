@@ -1,0 +1,16 @@
+.social-icon{
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+/* Responsividade */
+
+@media only screen and (max-width:767px) {
+
+  .social-icon{
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+  } 
+}

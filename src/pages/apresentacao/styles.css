@@ -1,0 +1,105 @@
+.presentation-card-container a, a:link, a:visited, a:hover{
+  color: #13161a !important;
+  font-size: 20px;
+}
+
+.perfil{
+  width: 100%;
+  height: 100%;
+  max-height: 500px;
+  max-width: 500px;
+  border-radius: 50%;
+  margin: 25px 0;
+}
+
+.skill-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  width: auto;
+  max-width: 700px;
+  height: auto;
+}
+
+.skill{
+  float: left;
+  margin: 10px; 
+}
+
+.presentation-card-container .skill-icon, .map-icon{
+  height: 50px;
+  width: 50px;
+}
+
+.presentation-card-container{
+  display: flex;
+  max-width: 1500px;
+  width: auto;
+  height: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.presentation-card-container h1{
+  font-size: 70px;
+}
+
+.presentation-card-container h2{
+  font-size: 40px;
+  font-weight: normal;
+  padding: 15px;
+}
+.presentation-card-container p{
+  font-size: 30px;
+  font-weight: normal;
+  color: #13161a;
+  text-align: center;
+}
+
+/* Responsividade */
+
+@media only screen and (max-width:767px) {
+  .presentation-card-container a, 
+  .presentation-card-container a:link, 
+  .presentation-card-container a:visited, 
+  .presentation-card-container a:hover{
+    color: #13161a !important;
+    font-size: 12px;
+  }
+
+  .skill{
+    font-size: 8px;
+    margin: 2px;
+  }
+
+  .presentation-card-container h1{
+    font-size: 35px;
+    padding: 5px;
+  }
+
+  .presentation-card-container h2{
+    font-size: 25px;
+    padding: 5px;
+  }
+
+  .presentation-card-container p{
+    font-size: 15px
+  }
+
+  .presentation-card-container .skill-icon, .map-icon{
+    height: 30px;
+    width: 30px;
+  } 
+
+  .perfil{
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+  }
+}
