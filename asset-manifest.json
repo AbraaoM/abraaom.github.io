@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f67a83c3.chunk.css",
-    "main.js": "/static/js/main.94896b5b.chunk.js",
-    "main.js.map": "/static/js/main.94896b5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.952454f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.952454f0.js.map",
-    "static/css/2.9d9371d1.chunk.css": "/static/css/2.9d9371d1.chunk.css",
-    "static/js/2.4af60181.chunk.js": "/static/js/2.4af60181.chunk.js",
-    "static/js/2.4af60181.chunk.js.map": "/static/js/2.4af60181.chunk.js.map",
+    "main.css": "/static/css/main.be772ca7.chunk.css",
+    "main.js": "/static/js/main.2fa05151.chunk.js",
+    "main.js.map": "/static/js/main.2fa05151.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98db2879.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98db2879.js.map",
+    "static/css/2.e5354bca.chunk.css": "/static/css/2.e5354bca.chunk.css",
+    "static/js/2.518afae3.chunk.js": "/static/js/2.518afae3.chunk.js",
+    "static/js/2.518afae3.chunk.js.map": "/static/js/2.518afae3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bfa762750097ee3b57fd0ed3f551dc6c.js": "/precache-manifest.bfa762750097ee3b57fd0ed3f551dc6c.js",
+    "precache-manifest.ec9c7c6b942192f174dfeb3323e1838f.js": "/precache-manifest.ec9c7c6b942192f174dfeb3323e1838f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.9d9371d1.chunk.css.map": "/static/css/2.9d9371d1.chunk.css.map",
-    "static/css/main.f67a83c3.chunk.css.map": "/static/css/main.f67a83c3.chunk.css.map",
-    "static/js/2.4af60181.chunk.js.LICENSE.txt": "/static/js/2.4af60181.chunk.js.LICENSE.txt",
+    "static/css/2.e5354bca.chunk.css.map": "/static/css/2.e5354bca.chunk.css.map",
+    "static/css/main.be772ca7.chunk.css.map": "/static/css/main.be772ca7.chunk.css.map",
+    "static/js/2.518afae3.chunk.js.LICENSE.txt": "/static/js/2.518afae3.chunk.js.LICENSE.txt",
     "static/media/EntradasEA_640x480.png": "/static/media/EntradasEA_640x480.399b5db1.png",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
     "static/media/apresentacao.png": "/static/media/apresentacao.94f08ee9.png",
@@ -31,10 +31,10 @@
     "static/media/sobre.png": "/static/media/sobre.92eea15b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.952454f0.js",
-    "static/css/2.9d9371d1.chunk.css",
-    "static/js/2.4af60181.chunk.js",
-    "static/css/main.f67a83c3.chunk.css",
-    "static/js/main.94896b5b.chunk.js"
+    "static/js/runtime-main.98db2879.js",
+    "static/css/2.e5354bca.chunk.css",
+    "static/js/2.518afae3.chunk.js",
+    "static/css/main.be772ca7.chunk.css",
+    "static/js/main.2fa05151.chunk.js"
   ]
 }
