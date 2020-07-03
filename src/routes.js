@@ -7,6 +7,7 @@ import Projetos from './pages/projetos'
 import CandleCountdown from './pages/projetos/candleCountdown'
 import SitePessoal from './pages/projetos/sitePessoal'
 import LinearRegression from './pages/projetos/linearRegression'
+import SimpleMACD from './pages/projetos/simpleMACD'
 
 export default function Routes(){
   return(
@@ -18,6 +19,7 @@ export default function Routes(){
         <Route path = "/candle-countdown" component = {CandleCountdown} />
         <Route path = "/site-pessoal" component = {SitePessoal} />
         <Route path = "/linear-regression" component = {LinearRegression} />
+        <Route path = "/simple-macd" component = {SimpleMACD} />
       </Switch>
     </HashRouter>
   )
