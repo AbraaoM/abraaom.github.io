@@ -2,6 +2,11 @@ import React from 'react'
 //import { BlockMath, InlineMath } from 'react-katex'
 
 import Header from '../../../components/header'
+import testeWINQ from '../../../assets/images/simple-macd/testeWINQ.png'
+import testeWINQ_entradas from '../../../assets/images/simple-macd/testeWINQ_entradas.png'
+import testeEURUSD from '../../../assets/images/simple-macd/testeEURUSD.png'
+import testeEURUSD_entradas from '../../../assets/images/simple-macd/testeEURUSD_entradas.png'
+
 
 import '../styles.css'
 //import 'katex/dist/katex.min.css';
@@ -88,6 +93,13 @@ export default function SimpleMACD(){
                   posições abertas são finalizadas e não serão abertas novas posições no dia. 
                 </p>
           <h2>Resultados</h2>
+            <h3>WINQ20</h3>
+              <img src={testeWINQ_entradas} alt="Entradas para o teste WINQ20"/>
+              <img src={testeWINQ} alt="Teste WINQ20"/>
+            <h3>EURUSD</h3>
+              <img src={testeEURUSD_entradas} alt="Entradas para o teste EURUSD"/>
+              <img src={testeEURUSD} alt="Teste EURUSD"/>
+          <h2>Referências</h2>
             <p>
               [1] Moving Average Convergence/Divergence (MACD). In: LEMOS, Flávio. Análise 
               Técnica dos Mercados Financeiros: Um Guia Completo e Definitivo dos Mercados 
