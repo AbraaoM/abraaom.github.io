@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.be772ca7.chunk.css",
-    "main.js": "/static/js/main.2fa05151.chunk.js",
-    "main.js.map": "/static/js/main.2fa05151.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.98db2879.js",
-    "runtime-main.js.map": "/static/js/runtime-main.98db2879.js.map",
+    "main.js": "/static/js/main.57a042e4.chunk.js",
+    "main.js.map": "/static/js/main.57a042e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98c13547.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98c13547.js.map",
     "static/css/2.e5354bca.chunk.css": "/static/css/2.e5354bca.chunk.css",
-    "static/js/2.518afae3.chunk.js": "/static/js/2.518afae3.chunk.js",
-    "static/js/2.518afae3.chunk.js.map": "/static/js/2.518afae3.chunk.js.map",
+    "static/js/2.3bde62e4.chunk.js": "/static/js/2.3bde62e4.chunk.js",
+    "static/js/2.3bde62e4.chunk.js.map": "/static/js/2.3bde62e4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ec9c7c6b942192f174dfeb3323e1838f.js": "/precache-manifest.ec9c7c6b942192f174dfeb3323e1838f.js",
+    "precache-manifest.88dceb59e15745d7da86f90d4ed0fc4b.js": "/precache-manifest.88dceb59e15745d7da86f90d4ed0fc4b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e5354bca.chunk.css.map": "/static/css/2.e5354bca.chunk.css.map",
     "static/css/main.be772ca7.chunk.css.map": "/static/css/main.be772ca7.chunk.css.map",
-    "static/js/2.518afae3.chunk.js.LICENSE.txt": "/static/js/2.518afae3.chunk.js.LICENSE.txt",
+    "static/js/2.3bde62e4.chunk.js.LICENSE.txt": "/static/js/2.3bde62e4.chunk.js.LICENSE.txt",
     "static/media/EntradasEA_640x480.png": "/static/media/EntradasEA_640x480.399b5db1.png",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
     "static/media/apresentacao.png": "/static/media/apresentacao.94f08ee9.png",
@@ -28,13 +28,17 @@
     "static/media/perfil3.png": "/static/media/perfil3.2d19f024.png",
     "static/media/projeto-post.png": "/static/media/projeto-post.47d0fe7a.png",
     "static/media/projetos.png": "/static/media/projetos.61b8e385.png",
-    "static/media/sobre.png": "/static/media/sobre.92eea15b.png"
+    "static/media/sobre.png": "/static/media/sobre.92eea15b.png",
+    "static/media/testeEURUSD.png": "/static/media/testeEURUSD.20a2c590.png",
+    "static/media/testeEURUSD_entradas.png": "/static/media/testeEURUSD_entradas.007138a6.png",
+    "static/media/testeWINQ.png": "/static/media/testeWINQ.6de83073.png",
+    "static/media/testeWINQ_entradas.png": "/static/media/testeWINQ_entradas.5ef7b23e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.98db2879.js",
+    "static/js/runtime-main.98c13547.js",
     "static/css/2.e5354bca.chunk.css",
-    "static/js/2.518afae3.chunk.js",
+    "static/js/2.3bde62e4.chunk.js",
     "static/css/main.be772ca7.chunk.css",
-    "static/js/main.2fa05151.chunk.js"
+    "static/js/main.57a042e4.chunk.js"
   ]
 }
