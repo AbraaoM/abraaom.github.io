@@ -10,6 +10,11 @@ export default function AboutMe(){
     <div>
       <Header/>
       <PostModelMQL 
+        data="08/07/2020" 
+        end="/coppock-curve" 
+        titulo="Curva de Coppock" 
+      />
+      <PostModelMQL 
         data="03/07/2020" 
         end="/simple-macd" 
         titulo="Simple MACD" 
