@@ -9,6 +9,7 @@ import SitePessoal from './pages/projetos/sitePessoal'
 import LinearRegression from './pages/projetos/linearRegression'
 import SimpleMACD from './pages/projetos/simpleMACD'
 import CoppockCurve from './pages/projetos/coppockCurve'
+import SimpleVWAP from './pages/projetos/simpleVWAP'
 
 export default function Routes(){
   return(
@@ -22,6 +23,7 @@ export default function Routes(){
         <Route path = "/linear-regression" component = {LinearRegression} />
         <Route path = "/simple-macd" component = {SimpleMACD} />
         <Route path = "/coppock-curve" component = {CoppockCurve} />
+        <Route path = "/simple-vwap" component = {SimpleVWAP} />
       </Switch>
     </HashRouter>
   )
