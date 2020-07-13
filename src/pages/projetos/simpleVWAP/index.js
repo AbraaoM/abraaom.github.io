@@ -12,7 +12,7 @@ export default function SimpleVWAP(){
     <div>
       <Header/>
       <div className="content-container container">
-        <h1>Simple MACD</h1>
+        <h1>Indicador VWAP</h1>
           <a target = "_blank" rel="noopener noreferrer" 
               href="https://www.mql5.com/pt/market/product/52170">
             MQL market
