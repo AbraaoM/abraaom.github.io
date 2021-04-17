@@ -10,6 +10,8 @@ tags:
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/AbraaoM/abraaom.github.io">Repositório Github</a>
 
+<!--more-->
+
 <h2>Motivação</h2>
     <p>Como desenvolvedor é importante possuir um website pessoal para 
         publicação de trabalhos e projetos interessantes para que outros 

@@ -4,9 +4,9 @@
 
 # Site
 title: Abraão Moreira
-subtitle: ''
-description: ''
-keywords:
+subtitle: 'Personal website, here is were I post my ideas and projects'
+description: 'A personal website, portfolio, blog, and project explanations. I write about development (React, NextJS, and MQL), business, and some other things my mind produces.'
+keywords: ['React', 'NextJS', 'MQL5', 'MQL4', 'Metatrader']
 author: Abraão Moreira
 language: ['en', 'pt-br']
 timezone: ''

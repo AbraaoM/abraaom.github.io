@@ -7,12 +7,14 @@ categories:
 tags:
     - mql5
 ---
-<a target = "_blank" rel="noopener noreferrer" href="https://www.mql5.com/pt/code/28175">Repositório MQL5 CodeBase</a><br/>
-<a target = "_blank" rel="noopener noreferrer" href="https://github.com/AbraaoM/CandleCountdown">Repositório Github</a>
-
 # Introdução
 
 Pessoas que realizam operações financeira em mercados financeiros muitas vezes utilizam gráficos de preços para visualizar o movimento do mercado e embasar suas decisões, um tipo de gráfico comum para este fim é o gráfico de candles, esse tipo de gráfico gera uma vela com indicações de preços de abertura, fechamento, máxima e mínima em um determinado período de tempo, terminado esse período uma nova vela começa a ser formada. O intuito deste trabalho é criar um cronômetro que indique a quantidade de tempo restante para o fechamento da vela corrente, oferecendo ao trader mais uma ferramenta que facilita a compreensão do gráfico.
+
+<!--more-->
+
+<a target = "_blank" rel="noopener noreferrer" href="https://www.mql5.com/pt/code/28175">Repositório MQL5 CodeBase</a><br/>
+<a target = "_blank" rel="noopener noreferrer" href="https://github.com/AbraaoM/CandleCountdown">Repositório Github</a>
 
 # Metodologia
 
